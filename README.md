@@ -1,9 +1,6 @@
-# Rudenko_VTIP402_LAB6
+# MTOlaba6android
 
 
-![Screenshot](screnn1.png)
-![Screenshot](screnn2.png)
-![Screenshot](screnn3.png)
-![Screenshot](screnn4.png)
+![Screenshot](screnn01.png)
+![Screenshot](screnn02.png)
 
-https://www.youtube.com/watch?v=XEOATfSQW00
