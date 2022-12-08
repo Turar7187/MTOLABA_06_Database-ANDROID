@@ -1,6 +1,6 @@
 # MTOlaba6android
 
 
-![Screenshot](screnn01.png)
-![Screenshot](screnn02.png)
+![Screenshot](01.png)
+![Screenshot](02.png)
 
